@@ -9,6 +9,7 @@ from torch import cuda, bfloat16
 import transformers
 from transformers import BitsAndBytesConfig
 
+# TODO -- Make sure to set your HuggingFace auth token in the .env file
 load_dotenv()
 hf_auth = os.getenv("HF_AUTH_TOKEN")
 
