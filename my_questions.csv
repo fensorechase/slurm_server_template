@@ -1,0 +1,3 @@
+qid,qtype,unique_question_id,question_text,answer_text,document_id,document_source,document_url,document_focus
+1,medical,uid123,"What are the symptoms of type 2 diabetes?","Common symptoms include increased thirst, frequent urination, and fatigue.","doc1","MedSource","https://medsource.org/doc1","diabetes symptoms"
+2,medical,uid124,"How to manage hypertension?","Management includes lifestyle changes and medication.","doc2","HealthRef","https://healthref.org/doc2","hypertension management"
